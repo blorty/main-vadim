@@ -51,8 +51,8 @@ const Desc = styled.div`
     @media (max-width: 768px) {
         margin-top: 12px;
         font-size: 16px;
-        padding-left: 12px;
-        padding-right: 12px;
+        padding-left: 8px;
+        padding-right: 8px;
     }
 `;
 
