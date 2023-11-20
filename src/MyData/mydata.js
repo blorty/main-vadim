@@ -12,7 +12,10 @@ export const mydata = {
         "Webflow Developer",
         "UI/UX Designer",
     ],
-    description: "I'm an aspiring bodybuilder and a full stack developer. My passion is building software that solves problems and helps people. I'm currently looking for a full time position as a Full Stack Developer.",
+    description:   `My passion lies in tackling challenging problems and creating software that genuinely helps people. 
+                    Away from the keyboard, you'll find me pursuing my bodybuilding goals.
+                    I'm currently on the lookout for a full-time position as a Full Stack Developer, 
+                    eager to join a team where I can contribute my skills and enthusiasm.`,
     github: " https://github.com/blorty",
     resume : "https://docs.google.com/document/d/1WVYorwm1TBa7gwrrXrcQc4zONaR2u9nPpCNZq_11NS0/edit?usp=sharing",
     LinkedIn : "https://www.linkedin.com/in/vadim-lozinschii/",
