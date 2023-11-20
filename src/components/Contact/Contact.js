@@ -51,6 +51,8 @@ const Desc = styled.div`
     @media (max-width: 768px) {
         margin-top: 12px;
         font-size: 16px;
+        padding-left: 12px;
+        padding-right: 12px;
     }
 `;
 
@@ -237,11 +239,11 @@ const Contact = () => {
                 </ContactForm>
                 {error && <div style={{ color: '#963939', marginTop: '10px' }}>Please fill in all fields.</div>}
                 <Snackbar
-                open={open}
-                autoHideDuration={6000}
-                onClose={() => setOpen(false)}
-                message="Email sent successfully!"
-                severity="success"
+                    open={open}
+                    autoHideDuration={6000}
+                    onClose={() => setOpen(false)}
+                    message="Email sent successfully!"
+                    severity="success"
                 />
             </Wrapper>
         </Container>
