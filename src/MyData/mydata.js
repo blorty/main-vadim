@@ -14,7 +14,7 @@ export const mydata = {
     ],
     description:   `My passion lies in tackling challenging problems and creating software that genuinely helps people. 
                     Away from the keyboard, you'll find me pursuing my bodybuilding goals.
-                    I'm currently on the lookout for a full-time position as a Full Stack Developer, 
+                    I'm looking for a position as a Full Stack Developer, 
                     eager to join a team where I can contribute my skills and enthusiasm.`,
     github: " https://github.com/blorty",
     resume : "https://docs.google.com/document/d/1WVYorwm1TBa7gwrrXrcQc4zONaR2u9nPpCNZq_11NS0/edit?usp=sharing",
